@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
 <h3 align="center">Hands-on software developer learning by building at 42 Vienna.</h3>
 
-- 🔭 I’m currently working on **my final project at 42 Vienna — a full-stack Pong web app.**
+🎓 I am happy to have completed the Common Core at 42 Vienna.
 
-- 🌱 I’m currently learning **frontend and backend development using Node.js, Fastify, and Web Components.**
+🌱 I’m currently getting into Data Science using Python and R for Data Processing and Analytics.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,9 +15,14 @@
 ## 🛠️ Languages and Tools  
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,c,cpp,git,docker,nodejs,sqlite,javascript,typescript)]()
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aismaili10&show_icons=true&locale=en&layout=compact" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=aismaili10&show_icons=true&hide=stars,prs,issues&count_private=false&hide_rank=true" /></td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/aismaili10">
+    <img
+         src="https://github-readme-stats.vercel.app/api?username=aismaili10&show_icons=true&hide=stars&count_private=true&hide_rank=true&theme=codeSTACKr&card_width=700" />
+  </a>
+  <br>
+  <a href="https://github.com/aismaili10">
+    <img
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=aismaili10&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&card_width=700" />
+  </a>
+</div>
