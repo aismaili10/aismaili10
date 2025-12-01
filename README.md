@@ -13,7 +13,7 @@
 </p>
 
 ## 🛠️ Languages and Tools  
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,c,cpp,git,docker,nodejs,sqlite,javascript,typescript)]()
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,c,cpp,typescript,python,r,git,docker,nodejs,sqlite)]()
 
 <div align="center">
   <a href="https://github.com/aismaili10">
@@ -24,5 +24,11 @@
   <a href="https://github.com/aismaili10">
     <img
          src="https://github-readme-stats.vercel.app/api/top-langs?username=aismaili10&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&card_width=700" />
+  </a>
+  <br>
+  <a href="https://github.com/aismaili10">
+    <img
+      src="https://komarev.com/ghpvc/?username=aismaili10&color=green&abbreviated=true&style=pixel"
+      >
   </a>
 </div>
