@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alireza</h1>
-<h3 align="center">Hands-on software developer learning by building at 42 Vienna.</h3>
+<h1 align="center">Hi 👋, I'm Ali</h1>
+<h3 align="center">Hands-on software developer learning by building at 42 Vienna</h3>
 
 🎓 I am happy to have completed the Common Core at 42 Vienna.
 
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/alireza-ismaili-44aaa5273" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/alireza-ismaili" target="_blank" rel="noreferrer noopener">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
@@ -18,12 +18,12 @@
 <div align="center">
   <a href="https://github.com/aismaili10">
     <img
-         src="https://github-readme-stats.vercel.app/api?username=aismaili10&show_icons=true&hide=stars&count_private=true&hide_rank=true&theme=codeSTACKr&card_width=700" />
+         src="https://github-stats-extended.vercel.app/api?username=aismaili10&show_icons=true&hide=stars&count_private=true&hide_rank=true&theme=codeSTACKr&card_width=700" />
   </a>
   <br>
   <a href="https://github.com/aismaili10">
     <img
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=aismaili10&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&card_width=700" />
+         src="https://github-stats-extended.vercel.app/api/top-langs?username=aismaili10&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&card_width=700" />
   </a>
   <br>
   <a href="https://github.com/aismaili10">
